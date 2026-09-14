@@ -1,5 +1,5 @@
 git:
 	cd ..
 	git add .
-	git commit -m "Finished Prac 4"
+	git commit -m "Finished M2 T2 Prac"
 	git push
